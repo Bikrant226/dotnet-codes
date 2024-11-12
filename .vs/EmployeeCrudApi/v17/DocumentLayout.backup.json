@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\employeecrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\employeecrudapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|e:\\projects\\dotnet projects\\employeecrudapi\\employeecrudapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138AB560-15AD-4B80-8204-E6301A56FE34}|EmployeeCrudApi\\EmployeeCrudApi.csproj|solutionrelative:employeecrudapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Models\\UpdateEmployeeDto.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Models\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:09:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:56:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:37:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeCrudApi.csproj",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\EmployeeCrudApi.csproj",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\EmployeeCrudApi.csproj",
+              "RelativeToolTip": "EmployeeCrudApi\\EmployeeCrudApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T16:35:44.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Program.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Program.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:19:41.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeCrudApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T16:14:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:03:06.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeCrudApi\\Models\\Entities\\Employee.cs",
+              "ToolTip": "E:\\Projects\\Dotnet Projects\\EmployeeCrudApi\\EmployeeCrudApi\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeCrudApi\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:48:56.728Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
